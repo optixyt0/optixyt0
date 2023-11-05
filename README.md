@@ -1,5 +1,12 @@
 ### Hi there 👋
+I'm OptiX YT!
 
+- 😄 Pronouns: he/him/they/them
+- 🤔 I’m looking for help with making a Roblox Executor
+- 🌱 I'm currently learning Python, NodeJS, HTML, CSS and C#
+
+- Discord: @optixyt
+- Mastodon: @optixyt@defcon.social
 <!--
 **optixyt0/optixyt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
