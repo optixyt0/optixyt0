@@ -1,5 +1,3 @@
-<img style="vertical-align: middle;" src="https://avatars.githubusercontent.com/u/149933000?v=4" width="120" height="120" align="left">
-
 # Hi there 👋
 #### I'm OptiX YT!
 
