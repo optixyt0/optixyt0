@@ -6,7 +6,7 @@
 #### About Me:
 - #### 👨‍🦱 My Pronouns: he/him/they/them
 - #### 💡 I’m looking for help with making a Roblox Executor
-- #### 🌱 I'm currently learning Python, NodeJS, HTML, CSS and C#
+- #### 📖 I'm currently learning Python, NodeJS, HTML, CSS and C#
 #### Contact Me:
 - #### Discord: @optixyt
 - #### Mastodon: [@optixyt@defcon.social](https://defcon.social/@optixyt)
