@@ -3,11 +3,10 @@
 
 #### About Me:
 - #### 👨‍🦱 My Pronouns: he/him/they/them
-- #### 💡 I’m looking for help with making a Roblox Executor
 - #### 📖 I'm currently learning Python, NodeJS, HTML, CSS and C#
 #### Contact Me:
 - #### Discord: @optixyt
-- #### Mastodon: [@optixyt@defcon.social](https://defcon.social/@optixyt)
+- #### Mastodon: [@optixyt@procursus.social](https://procursus.social/@optixyt)
 <!--
 **optixyt0/optixyt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
