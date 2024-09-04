@@ -4,6 +4,7 @@
 #### About Me:
 - #### 👨‍🦱 My Pronouns: he/him/they/them
 - #### 📖 I'm currently learning Python, NodeJS, HTML, CSS and C#
+- #### 💵 If you want to donate any money to me, you can't, sorry. Donate to a charity instead!
 #### Contact Me:
 - #### Discord: @optixyt
 - #### Mastodon: [@optixyt@procursus.social](https://procursus.social/@optixyt)
