@@ -3,10 +3,11 @@
 
 #### About Me:
 - #### 👨‍🦱 My Pronouns: he/him/they/them
-- #### 📖 I'm currently learning Python, NodeJS, HTML, CSS and C#
+- #### 📖 Professional Dumbass
 - #### 💵 If you want to donate any money to me, you can't, sorry. Donate to a charity instead!
+- #### 🔭 I’m currently working on my website.
 #### Contact Me:
-- #### Discord: @optixyt
+- #### Discord: [@optixyt](https://discord.com/users/optixyt)
 - #### Mastodon: [@optixyt@procursus.social](https://procursus.social/@optixyt)
 <!--
 **optixyt0/optixyt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
